@@ -1,0 +1,14 @@
+{
+  "name": "bodgery_tools",
+  "version": "1.0.0",
+  "description": "Running tool checks for the Bodgery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timm Murray",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

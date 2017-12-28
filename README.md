@@ -14,5 +14,4 @@ The server implements the following API calls:
 * /v1/is-allowed/:rfid/:tool - Sees if the given RFID is allowed to access 
   the named tool. Response codes are:
 ** 200 - RFID is allowed for this tool
-** 404 - RFID or tool was not found
 ** 403 - RFID is not allowed for this tool
